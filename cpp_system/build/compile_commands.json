@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/sinso/ros2_ws/src/cpp_system/build",
+  "command": "/usr/bin/c++  -I/home/sinso/ros2_ws/src/cpp_system/include  -o CMakeFiles/first.dir/src/first.cpp.o -c /home/sinso/ros2_ws/src/cpp_system/src/first.cpp",
+  "file": "/home/sinso/ros2_ws/src/cpp_system/src/first.cpp"
+},
+{
+  "directory": "/home/sinso/ros2_ws/src/cpp_system/build",
+  "command": "/usr/bin/c++  -I/home/sinso/ros2_ws/src/cpp_system/include  -o CMakeFiles/main.dir/src/main.cpp.o -c /home/sinso/ros2_ws/src/cpp_system/src/main.cpp",
+  "file": "/home/sinso/ros2_ws/src/cpp_system/src/main.cpp"
+}
+]
